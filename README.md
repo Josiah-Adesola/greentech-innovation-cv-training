@@ -25,6 +25,9 @@ This project demonstrates:
 You can view or rerun the full training process here:  
 🔗 [Open in Google Colab](https://colab.research.google.com/drive/1E0bCAn0gqXa8UttyyNiGTtRxQA0H-hJ1)
 
+
+This is the colab notebook to convert from the torch model to tflite32:  
+🔗 [Open in Google Colab](https://colab.research.google.com/drive/1NuLfw659-xaLrXqdAExC0cv29MdHMOuB)
 ---
 
 ## ⚙️ Deployment Example
