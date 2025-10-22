@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
+
+roboflow:
+  workspace: josiahs-workspace-rraso
+  project: trashnet-a-set-of-annotated-images-of-trash-that-can-be-used-for-object-detection-brcp1
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/josiahs-workspace-rraso/trashnet-a-set-of-annotated-images-of-trash-that-can-be-used-for-object-detection-brcp1/dataset/3
