@@ -1,5 +1,6 @@
 opencv-python
 numpy
-ultralytics
+tensorflow
+#ultralytics 
 streamlit
 pillow
