@@ -1,0 +1,5 @@
+# Ignore vgreen folder
+vgreen/
+
+# Ignore TensorFlow Lite file
+best_float32.tflite
